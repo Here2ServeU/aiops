@@ -5,7 +5,7 @@ This repository is structured as a comprehensive platform suite, demonstrating e
 
 ---
 
-## 🗺️ Project Directory Breakdown
+## Project Directory Breakdown
 
 ### 1. AIOps Service (The Predictive Engine)
 **Focus:** AI/ML, FinOps, Prometheus Metrics
@@ -31,3 +31,4 @@ This repository is structured as a comprehensive platform suite, demonstrating e
 | :--- | :--- | :--- |
 | **Reactive Cost Management** | Implements automated, policy-driven scaling logic (e.g., KEDA rules) that consumes the AIOps service's FinOps cost estimates. | Proactively scales down resources based on predictive usage lows, realizing a guaranteed reduction in idle cloud spend. |
 ```
+
